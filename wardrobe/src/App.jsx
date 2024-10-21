@@ -15,6 +15,7 @@ import Istifadesertleri from "./pages/Istifadesertleri";
 import SearchBar from "./Components/SearchBar";
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import ScrollToTop from "./Components/StarTop";
 
 
 
@@ -25,6 +26,7 @@ const App = () => {
       <ToastContainer />
         <Navbar />
         <SearchBar />
+        <ScrollToTop/>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/Kategoriya" element={<Collection />} />

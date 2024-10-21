@@ -17,13 +17,15 @@ const Login = () => {
     setError("");
 
     try {
-      const formData = currentState === "Daxil ol" 
-        ? { email, password } 
-        : { name, surname, email, password };
-      
-      const url = currentState === "Daxil ol" 
-        ? "https://twitter.bitcode.az/api/auth/login" 
-        : "https://twitter.bitcode.az/api/auth/register";
+      const formData =
+        currentState === "Daxil ol"
+          ? { email, password }
+          : { name, surname, email, password };
+
+      const url =
+        currentState === "Daxil ol"
+          ? "https://twitter.bitcode.az/api/auth/login"
+          : "https://twitter.bitcode.az/api/auth/register";
 
       const response = await fetch(url, {
         method: "POST",
@@ -37,9 +39,9 @@ const Login = () => {
 
       console.log("Response data:", data);
 
-      if (response.ok && data.token) {
+      if (response.ok) {
         localStorage.setItem("token", data.token);
-        navigate("/");
+        setCurrentState("Daxil ol");
       } else {
         setError(data.message || "Məlumat tapılmadı, yenidən yoxlayın.");
       }
@@ -51,19 +53,21 @@ const Login = () => {
     }
   };
 
+  const getHomePage = () => {
+    navigate("/");
+  };
+
   return (
     <form
       onSubmit={onSubmitHandler}
       className="flex flex-col items-center w-[90%] sm:max-w-96 m-auto mt-14 gap-4 text-gray-800"
     >
-      <div className="inline-flex items-center gap-2 mb-2 mt-10">
-        <p className="prata-regular text-3xl">{currentState}</p>
+      <div className="inline-flex items-center gap-2 mt-10 mb-2">
+        <p className="text-3xl prata-regular">{currentState}</p>
         <hr className="border-none h-[1.5px] w-8 bg-gray-800" />
       </div>
       {error && (
-        <div className="text-red-600 bg-red-100 p-2 rounded mb-2">
-          {error}
-        </div>
+        <div className="p-2 mb-2 text-red-600 bg-red-100 rounded">{error}</div>
       )}
       {currentState === "Qeydiyyatdan keç" && (
         <>
@@ -121,14 +125,18 @@ const Login = () => {
       </div>
       <button
         type="submit"
-        className="bg-black text-white font-light px-8 py-2 mt-4 rounded"
+        className="px-8 py-2 mt-4 font-light text-white bg-black rounded"
         disabled={loading}
+        onClick={currentState === "Daxil ol" ? () => getHomePage() : null}
       >
-        {loading ? "Yüklənir..." : currentState === "Daxil ol" ? "Daxil ol" : "Qeydiyyatdan keç"}
+        {loading
+          ? "Yüklənir..."
+          : currentState === "Daxil ol"
+          ? "Daxil ol"
+          : "Qeydiyyatdan keç"}
       </button>
     </form>
   );
 };
 
-export default Login;
-
+export default Login
