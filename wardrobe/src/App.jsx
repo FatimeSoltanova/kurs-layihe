@@ -16,6 +16,7 @@ import SearchBar from "./Components/SearchBar";
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import ScrollToTop from "./Components/StarTop";
+import ProductList from "./pages/ProductList";
 
 
 
@@ -37,6 +38,7 @@ const App = () => {
           <Route path="/Istifadəşərtləri" element={<Istifadesertleri />} />
           <Route path="/login" element={<Login />} />
           <Route path="/place-order" element={<PlaceOrder />} />
+          <Route path="/ProductList" element={<ProductList />} />
           <Route path="/orders" element={<Orders />} />
         </Routes>
         <Footer />

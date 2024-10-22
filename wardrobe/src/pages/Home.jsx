@@ -5,6 +5,7 @@ import BestSeller from '../Components/BestSeller'
 import NewLetterBox from '../Components/NewLetterBox'
 
 
+
 const Home = () => {
   return (
     <div>

@@ -107,9 +107,9 @@ export const assets = {
 export const products = [
   {
     _id: "aaaaa",
-    name: "Qadın Round Neck Cotton Top",
+    name: "Qadın Dəyirmi Yaxalı Pambıq Üst",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 30,
     image: [p_img1],
     category: "Qadın",
@@ -120,9 +120,9 @@ export const products = [
   },
   {
     _id: "aaaab",
-    name: "Kişi Round Neck Pure Cotton T-shirt",
+    name: "Kişi yumru yaxalı Saf Pambıq T-shirt",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 45,
     image: [p_img2_1, p_img2_2, p_img2_3, p_img2_4],
     category: "Kişi",
@@ -133,9 +133,9 @@ export const products = [
   },
   {
     _id: "aaaac",
-    name: "Qız Round Neck Cotton Top",
+    name: "Qız Dairəvi yaxalı Pambıq Üst",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 20,
     image: [p_img3],
     category: "Uşaq",
@@ -146,9 +146,9 @@ export const products = [
   },
   {
     _id: "aaaad",
-    name: "Kişi Round Neck Pure Cotton T-shirt",
+    name: "Kişi Dairəvi Boyun Təmiz Pambıq T-shirt",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 10,
     image: [p_img4],
     category: "Kişi",
@@ -159,9 +159,9 @@ export const products = [
   },
   {
     _id: "aaaae",
-    name: "Qadın Round Neck Cotton Top",
+    name: "Qadın Dəyirmi Yakalı Pambıq Üst",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 30,
     image: [p_img5],
     category: "Qadın",
@@ -172,9 +172,9 @@ export const products = [
   },
   {
     _id: "aaaaf",
-    name: "Qız Round Neck Cotton Top",
+    name: "Qız Dairəvi Yakalı Pambıq Üst",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 40,
     image: [p_img6],
     category: "Uşaq",
@@ -187,7 +187,7 @@ export const products = [
     _id: "aaaag",
     name: "Kişi Tapered Fit Flat-Front Trousers",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 19,
     image: [p_img7],
     category: "Kişi",
@@ -198,9 +198,9 @@ export const products = [
   },
   {
     _id: "aaaah",
-    name: "Kişi Round Neck Pure Cotton T-shirt",
+    name: "Kişi Dairəvi Boyun Təmiz Pambıq T-shirt",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 45,
     image: [p_img8],
     category: "Kişi",
@@ -211,9 +211,9 @@ export const products = [
   },
   {
     _id: "aaaai",
-    name: "Qız Round Neck Cotton Top",
+    name: "Qız Dairəvi Yakalı Pambıq Üst",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 10,
     image: [p_img9],
     category: "Uşaq",
@@ -226,7 +226,7 @@ export const products = [
     _id: "aaaaj",
     name: "Kişi Tapered Fit Flat-Front Trousers",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 55,
     image: [p_img10],
     category: "Kişi",
@@ -237,9 +237,9 @@ export const products = [
   },
   {
     _id: "aaaak",
-    name: "Kişi Round Neck Pure Cotton T-shirt",
+    name: "Kişi Dairəvi Boyun Təmiz Pambıq T-shirt",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 62,
     image: [p_img11],
     category: "Kişi",
@@ -250,9 +250,9 @@ export const products = [
   },
   {
     _id: "aaaal",
-    name: "Kişi Round Neck Pure Cotton T-shirt",
+    name: "Kişi Dairəvi Boyun Təmiz Pambıq T-shirt",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 50,
     image: [p_img12],
     category: "Kişi",
@@ -263,9 +263,9 @@ export const products = [
   },
   {
     _id: "aaaam",
-    name: "Qadın Round Neck Cotton Top",
+    name: "Qadın Dəyirmi Yakalı Pambıq Üst",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 30,
     image: [p_img13],
     category: "Qadın",
@@ -276,9 +276,9 @@ export const products = [
   },
   {
     _id: "aaaan",
-    name: "Oğlan Round Neck Pure Cotton T-shirt",
+    name: "Oğlan Yuvarlak Yaka Saf Pambıq T-shirt",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 160,
     image: [p_img14],
     category: "Uşaq",
@@ -291,7 +291,7 @@ export const products = [
     _id: "aaaao",
     name: "Kişi Tapered Fit Flat-Front Trousers",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 44,
     image: [p_img15],
     category: "Kişi",
@@ -302,9 +302,9 @@ export const products = [
   },
   {
     _id: "aaaap",
-    name: "Qız Round Neck Cotton Top",
+    name: "Qız Dairəvi Yakalı Pambıq Üst",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 17,
     image: [p_img16],
     category: "Uşaq",
@@ -317,7 +317,7 @@ export const products = [
     _id: "aaaaq",
     name: "Kişi Tapered Fit Flat-Front Trousers",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 50,
     image: [p_img17],
     category: "Men",
@@ -328,9 +328,9 @@ export const products = [
   },
   {
     _id: "aaaar",
-    name: "Oğlan Round Neck Pure Cotton T-shirt",
+    name: "Oğlan Yuvarlak Yaka Saf Pambıq T-shirt",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 18,
     image: [p_img18],
     category: "Uşaq",
@@ -341,9 +341,9 @@ export const products = [
   },
   {
     _id: "aaaas",
-    name: "Oğlan Round Neck Pure Cotton T-shirt",
+    name: "Oğlan Yuvarlak Yaka Saf Pambıq T-shirt",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 16,
     image: [p_img19],
     category: "Uşaq",
@@ -354,9 +354,9 @@ export const products = [
   },
   {
     _id: "aaaat",
-    name: "Qadın Palazzo Pants with Waist Belt",
+    name: "Qadın Palazzo Bel Kəmərli Şalvar",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 39,
     image: [p_img20],
     category: "Qadın",
@@ -367,9 +367,9 @@ export const products = [
   },
   {
     _id: "aaaau",
-    name: "Qadın Zip-Front Relaxed Fit Jacket",
+    name: "Qadın Zip-Front Relaxed Fit Gödəkçə",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 57,
     image: [p_img21],
     category: "Qadın",
@@ -380,9 +380,9 @@ export const products = [
   },
   {
     _id: "aaaav",
-    name: "Qadın Palazzo Pants with Waist Belt",
+    name: "Qadın Palazzo Bel Kəmərli Şalvar",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 20,
     image: [p_img22],
     category: "Qadın",
@@ -393,9 +393,9 @@ export const products = [
   },
   {
     _id: "aaaaw",
-    name: "Oğlan Round Neck Pure Cotton T-shirt",
+    name: "Oğlan Yuvarlak Yaka Saf Pambıq T-shirt",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 18,
     image: [p_img23],
     category: "Uşaq",
@@ -406,9 +406,9 @@ export const products = [
   },
   {
     _id: "aaaax",
-    name: "Oğlan Round Neck Pure Cotton T-shirt",
+    name: "Oğlan Yuvarlak Yaka Saf Pambıq T-shirt",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 18,
     image: [p_img24],
     category: "Uşaq",
@@ -419,9 +419,9 @@ export const products = [
   },
   {
     _id: "aaaay",
-    name: "Qız Round Neck Cotton Top",
+    name: "Qız Dairəvi Yakalı Pambıq Üst",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 19,
     image: [p_img25],
     category: "Uşaq",
@@ -432,9 +432,9 @@ export const products = [
   },
   {
     _id: "aaaaz",
-    name: "Qadın Zip-Front Relaxed Fit Jacket",
+    name: "Qadın Zip-Front Relaxed Fit Gödəkçə",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 22,
     image: [p_img26],
     category: "Qadın",
@@ -445,9 +445,9 @@ export const products = [
   },
   {
     _id: "aaaba",
-    name: "Qız Round Neck Cotton Top",
+    name: "Qız Dairəvi Yakalı Pambıq Üst",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 20,
     image: [p_img27],
     category: "Uşaq",
@@ -458,9 +458,9 @@ export const products = [
   },
   {
     _id: "aaabb",
-    name: "Kişi Slim Fit Relaxed Denim Jacket",
+    name: "Kişi Slim Fit Relaxed Denim Gödəkçə",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 23,
     image: [p_img28],
     category: "Kişi",
@@ -471,9 +471,9 @@ export const products = [
   },
   {
     _id: "aaabc",
-    name: "Qadın Round Neck Cotton Top",
+    name: "Qadın Dəyirmi Yakalı Pambıq Üst",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 21,
     image: [p_img29],
     category: "Qadın",
@@ -484,9 +484,9 @@ export const products = [
   },
   {
     _id: "aaabd",
-    name: "Qız Round Neck Cotton Top",
+    name: "Qız Dairəvi Yakalı Pambıq Üst",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 24,
     image: [p_img30],
     category: "Uşaq",
@@ -497,9 +497,9 @@ export const products = [
   },
   {
     _id: "aaabe",
-    name: "Kişi Round Neck Pure Cotton T-shirt",
+    name: "Kişi Dairəvi Boyun Təmiz Pambıq T-shirt",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 28,
     image: [p_img31],
     category: "Kişi",
@@ -510,9 +510,9 @@ export const products = [
   },
   {
     _id: "aaabf",
-    name: "Kişi Round Neck Pure Cotton T-shirt",
+    name: "Kişi Dairəvi Boyun Təmiz Pambıq T-shirt",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 25,
     image: [p_img32],
     category: "Kişi",
@@ -523,9 +523,9 @@ export const products = [
   },
   {
     _id: "aaabg",
-    name: "Qız Round Neck Cotton Top",
+    name: "Qız Dairəvi Yakalı Pambıq Üst",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 23,
     image: [p_img33],
     category: "Uşaq",
@@ -536,9 +536,9 @@ export const products = [
   },
   {
     _id: "aaabh",
-    name: "Qadın Round Neck Cotton Top",
+    name: "Qadın Dəyirmi Yakalı Pambıq Üst",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 26,
     image: [p_img34],
     category: "Qadın",
@@ -549,9 +549,9 @@ export const products = [
   },
   {
     _id: "aaabi",
-    name: "Qadın Zip-Front Relaxed Fit Jacket",
+    name: "Qadın Zip-Front Relaxed Fit Gödəkçə",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 24,
     image: [p_img35],
     category: "Qadın",
@@ -562,9 +562,9 @@ export const products = [
   },
   {
     _id: "aaabj",
-    name: "Qadın Zip-Front Relaxed Fit Jacket",
+    name: "Qadın Zip-Front Relaxed Fit Gödəkçə",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 27,
     image: [p_img36],
     category: "Qadın",
@@ -575,9 +575,9 @@ export const products = [
   },
   {
     _id: "aaabk",
-    name: "Qadın Round Neck Cotton Top",
+    name: "Qadın Dəyirmi Yakalı Pambıq Üst",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 25,
     image: [p_img37],
     category: "Qadın",
@@ -588,9 +588,9 @@ export const products = [
   },
   {
     _id: "aaabl",
-    name: "Kişi Round Neck Pure Cotton T-shirt",
+    name: "Kişi Dairəvi Boyun Təmiz Pambıq T-shirt",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 28,
     image: [p_img38],
     category: "Kişi",
@@ -601,9 +601,9 @@ export const products = [
   },
   {
     _id: "aaabm",
-    name: "Kişi Printed Plain Cotton Shirt",
+    name: "Kişi Çaplı Düz ​​Pambıq Köynək",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 36,
     image: [p_img39],
     category: "Kişi",
@@ -614,9 +614,9 @@ export const products = [
   },
   {
     _id: "aaabn",
-    name: "Kişi Slim Fit Relaxed Denim Jacket",
+    name: "Kişi Slim Fit Relaxed Denim Gödəkçə",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 29,
     image: [p_img40],
     category: "Kişi",
@@ -627,9 +627,9 @@ export const products = [
   },
   {
     _id: "aaabo",
-    name: "Kişi Round Neck Pure Cotton T-shirt",
+    name: "Kişi Dairəvi Boyun Təmiz Pambıq T-shirt",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 27,
     image: [p_img41],
     category: "Kişi",
@@ -640,9 +640,9 @@ export const products = [
   },
   {
     _id: "aaabp",
-    name: "Oğlan Round Neck Pure Cotton T-shirt",
+    name: "Oğlan Yuvarlak Yaka Saf Pambıq T-shirt",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 30,
     image: [p_img42],
     category: "Uşaq",
@@ -653,9 +653,9 @@ export const products = [
   },
   {
     _id: "aaabq",
-    name: "Kid Tapered Slim Fit Trouser",
+    name: "Uşaq dar şalvar",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 28,
     image: [p_img43],
     category: "Uşaq",
@@ -666,9 +666,9 @@ export const products = [
   },
   {
     _id: "aaabr",
-    name: "Qadın Zip-Front Relaxed Fit Jacket",
+    name: "Qadın Zip-Front Relaxed Fit Gödəkçə",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 31,
     image: [p_img44],
     category: "Qadın",
@@ -679,9 +679,9 @@ export const products = [
   },
   {
     _id: "aaabs",
-    name: "Kişi Slim Fit Relaxed Denim Jacket",
+    name: "Kişi Slim Fit Relaxed Denim Gödəkçə",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 29,
     image: [p_img45],
     category: "Kişi",
@@ -692,9 +692,9 @@ export const products = [
   },
   {
     _id: "aaabt",
-    name: "Kişi Slim Fit Relaxed Denim Jacket",
+    name: "Kişi Slim Fit Relaxed Denim Gödəkçə",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 33,
     image: [p_img46],
     category: "Kişi",
@@ -705,9 +705,9 @@ export const products = [
   },
   {
     _id: "aaabu",
-    name: "Kid Tapered Slim Fit Trouser",
+    name: "Uşaq dar şalvar",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 25,
     image: [p_img47],
     category: "Uşaq",
@@ -718,9 +718,9 @@ export const products = [
   },
   {
     _id: "aaabv",
-    name: "Kişi Slim Fit Relaxed Denim Jacket",
+    name: "Kişi Slim Fit Relaxed Denim Gödəkçə",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 38,
     image: [p_img48],
     category: "Kişi",
@@ -731,9 +731,9 @@ export const products = [
   },
   {
     _id: "aaabw",
-    name: "Kid Tapered Slim Fit Trouser",
+    name: "Uşaq dar şalvar",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 31,
     image: [p_img49],
     category: "Uşaq",
@@ -744,9 +744,9 @@ export const products = [
   },
   {
     _id: "aaabx",
-    name: "Kid Tapered Slim Fit Trouser",
+    name: "Uşaq dar şalvar",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 34,
     image: [p_img50],
     category: "Uşaq",
@@ -757,9 +757,9 @@ export const products = [
   },
   {
     _id: "aaaby",
-    name: "Qadın Zip-Front Relaxed Fit Jacket",
+    name: "Qadın Zip-Front Relaxed Fit Gödəkçə",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 32,
     image: [p_img51],
     category: "Qadın",
@@ -770,9 +770,9 @@ export const products = [
   },
   {
     _id: "aaabz",
-    name: "Kişi Slim Fit Relaxed Denim Jacket",
+    name: "Kişi Slim Fit Relaxed Denim Gödəkçə",
     description:
-      "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+      "Yüngül, adətən trikotaj, dar köynək, dəyirmi dekolteli və qısa qollu, alt köynək və ya üst paltar kimi geyinilir.",
     price: 35,
     image: [p_img52],
     category: "Kişi",
