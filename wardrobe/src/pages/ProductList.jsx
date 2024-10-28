@@ -13,7 +13,6 @@ const ProductList = () => {
     image: null,
   });
 
-  // Create a ref for the file input
   const fileInputRef = useRef(null);
 
   useEffect(() => {
@@ -32,8 +31,7 @@ const ProductList = () => {
   const addProduct = () => {
     if (newProduct.name && newProduct.price && newProduct.size && newProduct.image) {
       setProducts([...products, { ...newProduct, id: products.length + 1 }]);
-      setNewProduct({ name: "", price: "", size: "", image: null }); // Reset the form
-      // Clear the file input by resetting the ref value
+      setNewProduct({ name: "", price: "", size: "", image: null });
       fileInputRef.current.value = ""; 
     }
   };
@@ -99,7 +97,7 @@ const ProductList = () => {
             <p className="text-gray-500 mb-1">Qiymət: {product.price} AZN</p>
             <p className="text-gray-500 mb-1">Ölçü: {product.size}</p>
             <div><button
-              onClick={() => deleteProduct(product.id)} // Call deleteProduct with the product's id
+              onClick={() => deleteProduct(product.id)} 
               className="bg-red-500 text-white py-1 px-2 rounded-md hover:bg-red-600 transition-colors flex justify-self-end"
             >
               Sil
